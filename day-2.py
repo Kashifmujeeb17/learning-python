@@ -6,3 +6,4 @@ total = gold_coin + gold_coin_2
 print("The gold coin is: ", total)
 
 
+print("The gold coin double is: ", total * 2)
