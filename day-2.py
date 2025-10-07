@@ -10,3 +10,7 @@ print("The gold coin double is: ", total * 2)
 
 if gold_coin > gold_coin_2:
     print("Gold coin 1 is greater than gold coin 2")
+elif gold_coin < gold_coin_2:
+    print("Gold coin 2 is greater than gold coin 1")
+else:
+    print("Gold coin 1 is equal to gold coin 2")
