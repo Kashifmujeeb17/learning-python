@@ -7,3 +7,6 @@ print("The gold coin is: ", total)
 
 
 print("The gold coin double is: ", total * 2)
+
+if gold_coin > gold_coin_2:
+    print("Gold coin 1 is greater than gold coin 2")
