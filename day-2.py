@@ -1,7 +1,9 @@
 import argparse
 import json
+import sys
+from typing import Dict
 
-def get_positive_int(prompt):
+def get_positive_int(prompt: str) -> int:
     while True:
         try:
             value = int(input(prompt))
