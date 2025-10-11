@@ -1,0 +1,3 @@
+print("🔔 THE LOST BEACON 🔔")
+print("Welcome, young apprentice! Your village is shrouded in darkness.")
+print("Your task: Relight the ancient Beacon by collecting 3 glowing runes.\n")
